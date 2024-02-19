@@ -1,5 +1,6 @@
 <h2 align="left">Hello, I'm Yash Kalra - a Computer Science pre-final year student with expertise in MERN Stack, Data Structures, and Marketing.
 
+
 Currently pursuing my degree at Chitkara University, I've not only excelled academically with a 9.5 CGPA but also participated in over 5 hackathons, showcasing my skills in emerging technologies.
 
 As a student ambassador, I led a team during the Blue Marble Cultural immersion tour hosted by Deakin University Australia, winning the best storytelling award for my creative video representation.
