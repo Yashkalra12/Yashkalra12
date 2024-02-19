@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **yash1578.be21@chitkara.edu.in**
 
-- ⚡ Fun fact **I vibe on Anuv Jain's Song like there is no tomorrow.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-k-358405123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/yash-k-358405123/](https://www.linkedin.com/in/yash-kalra/)" height="30" width="40" /></a>
