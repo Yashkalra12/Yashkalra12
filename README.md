@@ -1,5 +1,5 @@
 
-<img src="https://visitor-badge.laobi.icu/badge?Yashkalra12=Yashkalra12" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Yashkalra12=Yashkalra12" alt="visitor badge"/>
 
 
 <h1 align="center">
