@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Mern Stack Projects**
  
- 🌱 I’m currently learning **Typescript, Prisma, PHP **
+ 🌱 I’m currently learning **Typescript, Prisma, PHP**
 
 💬 Ask me about **Node.js, React, Prisma or anything ralated to marketing**
 
