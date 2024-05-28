@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Mern Stack Projects**
  
- 🌱 I’m currently learning **Typescript, Prisma, AWS**
+ 🌱 I’m currently learning **Typescript, Prisma, PHP **
 
 💬 Ask me about **Node.js, React, Prisma or anything ralated to marketing**
 
@@ -43,8 +43,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,vscode,javascript,git,github,figma,notion,react,tailwind,bootstrap,java,c,c++" />
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,firebase,mongodb,postman,prisma,vite,npm,postgres,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,vscode,javascript,git,github,figma,notion,react,tailwind,bootstrap,java,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,firebase,mongodb,postman,prisma,vite,npm,postgres,mysql,c,c++" /><br>
 </div>
 
 <br/>
