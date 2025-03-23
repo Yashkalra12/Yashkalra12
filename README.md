@@ -12,11 +12,11 @@
     
 <h2><strong>🚀 Currently Exploring</strong></h2>
 
-<h3><strong>🔹 AI Integration in Web Apps</strong> – Experimenting with AI-driven features for enhanced user experiences.</h3>
+<h3><strong>AI Integration in Web Apps</strong> – Experimenting with AI-driven features for enhanced user experiences.</h3>
 
-<h3><strong>🔹 Frontend Engineering</strong> – Building optimized, scalable SPAs with React and TypeScript.</h3>
+<h3><strong>Frontend Engineering</strong> – Building optimized, scalable SPAs with React and TypeScript.</h3>
 
-<h3><strong>🔹 Performance Optimization</strong> – Crafting efficient and seamless complex UI components.</h3>
+<h3><strong>Performance Optimization</strong> – Crafting efficient and seamless complex UI components.</h3>
 
 </div>
 
