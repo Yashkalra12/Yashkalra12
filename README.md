@@ -9,13 +9,9 @@
 <br/>
 
 <div align="center">
- 
- 👉🏻 I’m currently working on **Mern/Mean Stack Projects**
- 
- 👉🏻 I’m currently learning **Typescript, Prisma, Angular**
-
-💬 Ask me about **Node.js, React, Prisma or anything ralated to marketing**
-
+**AI Integration in Web Apps** – Experimenting with AI-driven features for enhanced user experiences.
+**Frontend Engineering** – Building optimized, scalable SPAs with React and TypeScript.
+**Performance Optimization** – Crafting efficient and seamless complex UI components.
  </div>
  
 <div align="center"> 
