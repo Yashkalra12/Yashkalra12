@@ -9,9 +9,11 @@
 <br/>
 
 <div align="center">
-**AI Integration in Web Apps** – Experimenting with AI-driven features for enhanced user experiences.
-**Frontend Engineering** – Building optimized, scalable SPAs with React and TypeScript.
-**Performance Optimization** – Crafting efficient and seamless complex UI components.
+## ** AI Integration in Web Apps ** – Experimenting with AI-driven features for enhanced user experiences.
+    
+## ** Frontend Engineering ** – Building optimized, scalable SPAs with React and TypeScript.
+
+## ** Performance Optimization ** – Crafting efficient and seamless complex UI components.
  </div>
  
 <div align="center"> 
