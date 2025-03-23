@@ -4,16 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Kalra!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center"> ## A passionate software developer from India</h3>
 
 <br/>
 
 <div align="center">
-## ** AI Integration in Web Apps ** – Experimenting with AI-driven features for enhanced user experiences.
     
-## ** Frontend Engineering ** – Building optimized, scalable SPAs with React and TypeScript.
+##  AI Integration in Web Apps  – Experimenting with AI-driven features for enhanced user experiences.
+    
+## Frontend Engineering – Building optimized, scalable SPAs with React and TypeScript.
 
-## ** Performance Optimization ** – Crafting efficient and seamless complex UI components.
+## Performance Optimization – Crafting efficient and seamless complex UI components.
  </div>
  
 <div align="center"> 
