@@ -53,12 +53,21 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<p align="center">
+    <a href="https://github.com/Yashkalra12/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashkalra12&theme=black-ice&hide_border=true&count_private=true&stroke=0000&background=transparent"/>
+    </a>
+</p>
 <br>
-<div align=center>
- <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yashkalra12&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yashkalra12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YashKalra12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<p align="center">
+  <a href="https://github.com/Yashkalra12/github-readme-stats">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yashkalra12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Yashkalra12/github-readme-stats">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkalra12&layout=compact&theme=react&count_private=true&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+</p>
 </div>
 
 <br/><br/>
