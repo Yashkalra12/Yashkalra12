@@ -90,12 +90,7 @@ const yash = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yashkalra12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Yashkalra12&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkalra12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yashkalra12&theme=tokyonight&hide_border=true&layout=compact" />
-
 </div>
 
 ---
