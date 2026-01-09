@@ -2,7 +2,7 @@
 
 # 👨‍💻 Yash Kalra
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+AI+Enthusiast;Building+Scalable+%26+High-Performance+Apps;Open+Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+AI+Engineer;Building+Scalable+%26+High-Performance+Apps;Open+Source+Contributor+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
